@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+.mother{
+    width: 1440px;
+    height: 1025px;
+    background-color: white;
+    position: relative;
+    background-image: linear-gradient(white,#F5F5F5);
+    display: flex;
+}
+.title-box{
+    width: 801.4px;
+    height: 76px;
+    margin-top: 226px;
+    margin-left: 334.6px;
+    position: absolute;
+    padding-left: 130px;
+}
+.title-text1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 84px;
+    color:black;
+    
+}
+.title-text2{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 84px;
+    color: #3636DE;
+}
+.swag-div{
+    width: 386.33px;
+    height: 437px;
+    background-color: white;
+    border-radius: 40px;
+    position:absolute;
+    margin-top: 378px;
+    margin-left: 121px;
+    position: relative;
+}
+.networking-div{
+    width: 386.33px;
+    height: 437px;
+    background-color: white;
+    border-radius: 40px;
+    position: absolute;
+    margin-top: 378px;
+    margin-left: 542.62px;
+}
+.rewards-div{
+    width: 386.33px;
+    height: 437px;
+    background-color: white;
+    border-radius: 40px;
+    position: absolute;
+    margin-top: 378px;
+    margin-left: 964.24px;
+}
+.cool-emoji{
+    margin-top: 62.43px;
+    width: 159.24px;
+    height: 146.57px;
+}
+.box-title{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 66px;
+}
+
+.description{
+    color: #696871;
+    font-size: 21px;
+}
+.networking-picture{
+    margin-top: 56.1px;
+    width: 323.9px;
+    height: 148.38px;
+}
+.rock{
+    margin-top: 44.33px;
+    width: 237.95px;
+    height: 170.57px;
+}
